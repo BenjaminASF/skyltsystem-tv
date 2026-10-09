@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget>
-  <ver>1.0.2</ver>
-  <size>15121</size>
+  <ver>1.0.3</ver>
+  <size>15154</size>
   <widgetname>Skyltsystem</widgetname>
   <webtype>tizen</webtype>
 </widget>
